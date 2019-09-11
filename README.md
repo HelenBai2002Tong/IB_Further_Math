@@ -4,6 +4,7 @@
 ## ALL RIGHTS RESERVES ©
 
 ### Encryption
+Every data in the database requires encrypt, otherwise the security for information won't exist anymore. We all know that there are encryption algorithms, but how do them work? This python programming will illustrate it. To be specfic, this programming illustates how RSA, a kind of asymmetirc encryption algorithms, works. Inside the algorithm, there is the utilization of further math works as Euler Theorem. 
 
 ### Compression
 
@@ -20,6 +21,8 @@ A minimum spanning tree (MST) is a subset of the edges if a connected, edge-weig
 ##### a.Kruskal Algorithm
 
 ##### b.Prim's Algorithm
+
+##### c.Dijstra Alogorithm
 
 #### 2.Chinese Postman Theorem
 
